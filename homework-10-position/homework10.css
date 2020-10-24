@@ -1,0 +1,45 @@
+body{
+    background: #b07cf7;
+}
+h1{
+    font-family: "Raleway Bold", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+p{
+    font-family: "Raleway Light", sans-serif;
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.images{
+    display: block;
+    float: bottom;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+img:hover{
+  box-shadow: -1px 9px 30px 11px rgba(104,196,102,0.91);
+}
+button{
+    background: #f72b3b;
+    color: white;
+    font-family: "Raleway Light", sans-serif;
+    border: none;
+    height: 50px;
+    width: 200px;
+    box-shadow: -1px 8px 9px -6px rgba(0,0,0,0.64);
+}
+button:hover{
+    background: #478007;
+}
+div{
+    text-align: center;
+}
